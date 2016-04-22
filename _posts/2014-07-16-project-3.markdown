@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+title: City Field
+img: nature6.png
+imgm: cityfield.PNG
+alt: image-alt
+language: C#
+category: Desktop Game Development
+link: <a href="https://github.com/karanh/CityField">GitHub</a>
+description: My first object oriented program that features a 2D grid layout of a small scale city. User has the option to add houses, apartments, commerical stores, emergency services, factories, hositals, offices, and restaurants. Depending on the building, the economy, costs, and overall score will fluctuate.  
+
+---

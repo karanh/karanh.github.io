@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+title: Mend-it-Mario
+img: videogame10.png
+imgm: MendItMario.PNG
+alt: image-alt
+project-date: April 2014
+language: C#
+link: <a href="https://github.com/karanh/Mend-it-Mario">GitHub</a>
+category: Desktop Game Development
+description: Single-player desktop recreation of famous Fix-it-Felix Jr. arcade game. Utilized OOP paradigms to implement collision detection, enemy AI, and character animations for the level editor, villain, and obstacles classes to variably adjust difficulty for the user. 
+
+---

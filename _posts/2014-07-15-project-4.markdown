@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: Monopoly BB7K
+img: shop3.png
+imgm: monopoly.PNG
+alt: image-alt
+language: C++
+category: Desktop Game Development
+link: <a href="https://github.com/PTRWang/monopoly">GitHub</a>
+description: Worked with another partner to create a console based Monopoly game that models the University of Waterloo. BB7K suports 2-6 players to virtually play a real game of Monopoly following all the game's nitty gritty details. The board features a goose.
+---

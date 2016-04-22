@@ -1,0 +1,42 @@
+# Site settings
+title: Karan Huynh
+email: Karan.huynh@uwaterloo.ca
+url: https://karanh.github.io
+description: "I program, or so I try."
+skills: "3rd year Computer Science student - Bioinformatics Option at the University of Waterloo"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 8064A2
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 584371 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Karan Huynh
+  location: Location
+  social: Socialize with me
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/KaranHuynh
+  - title: github
+    url: http://github.com/karanh
+  - title: linkedin
+    url: https://ca.linkedin.com/in/karanhuynh
+
+# Postal address (add as many lines as necessary)
+
+
+# Credits content
+credits: 'Googling fast is a technical skill \f005'
+
+# Build settings
+markdown: kramdown
+permalink: pretty 

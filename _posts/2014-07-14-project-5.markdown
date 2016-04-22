@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+title: Gene Me
+img: medical109.png
+imgm: geneme.PNG
+alt: image-alt
+language: C#
+category: Bioinformatics
+link: <a href="https://github.com/karanh/GeneMe">GitHub</a>
+description: Console based Windows executable that targets bioinformatics applications for large datasets. It reads in a gene sequence from a file and outputs analytics based on the gene using searching and sorting algorithms.
+---

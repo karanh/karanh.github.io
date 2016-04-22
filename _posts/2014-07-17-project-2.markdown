@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+title: Star Catcher
+img: cellphone106.png
+imgm: StarCatcher.PNG
+alt: image-alt
+project-date: April 2014
+language: C#
+category: Cross Platform Game Development
+link: <a href="https://github.com/karanh/StarCatcher">GitHub</a>
+description: Star Catcher runs on mobile iOS, Android, and Windows. User's goal is to move StarCatcher around to capture as many falling stars as possible while avoiding asteroids. Game features integrate parallax where the background moves with the user, sprites for images, layers for different game pages, particle systems for collision animation, actions, scenes, sounds, and physics for movement.
+
+---

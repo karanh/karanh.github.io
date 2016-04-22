@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+title: website
+img: computer200.png
+imgm: site.PNG
+alt: image-alt
+language: HTML, CSS, JavaScript, Jekyll, Bootstrap
+category: Web Development
+link: <a href="http://karanhuynh.me/">GitHub</a>
+description: This site allows me to apply concepts covered in the HTML, CSS, Bootstrap, and JavaScript courses I learned from <a href="https://www.codecademy.com/"> codecademy.com</a>. It also acts as a more visually appealing medium of my resume to showcase who I am as a computer programmer. Enjoy!
+---
